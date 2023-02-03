@@ -4,3 +4,6 @@ This EDA uses the youtube api to build a dataset from various youtube channels t
 
 Link to notebook: 
 https://github.com/RyanPitt100/Youtube-EDA/blob/main/youtube-api.ipynb
+
+#Todo 
+Finish write up and visualisations
